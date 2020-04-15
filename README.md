@@ -1,0 +1,2 @@
+# PluginSwiftDemo
+Cordova Swift plugin
