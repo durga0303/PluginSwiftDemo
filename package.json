@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-pluginswiftdemo",
+  "version": "1.0.0",
+  "description": "Swift Cordova Plugin",
+  "cordova": {
+    "id": "cordova-plugin-pluginswiftdemo",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durga0303/PluginSwiftDemo.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Durga Vundavalli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/durga0303/PluginSwiftDemo/issues"
+  },
+  "homepage": "https://github.com/durga0303/PluginSwiftDemo#readme"
+}
